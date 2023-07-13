@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+}
+
+.list {
+    list-style-type: square;
+
+}
